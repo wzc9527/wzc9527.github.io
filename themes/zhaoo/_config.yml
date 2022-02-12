@@ -144,7 +144,7 @@ post_page_size:
 
 # Caption
 caption:
-  enable: true
+  enable: false
 
 # Indent
 indent:
