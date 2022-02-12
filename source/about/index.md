@@ -34,11 +34,7 @@ keywords: 成功,失败
 
 # Contact
 
-<img src='/index/email.png' align='left' style=' width:20px;height:20px;position: relative; top: 4px'/> **E-Mail:** wzc_wang@126.com
-<img src='/index/wechat.png' align='left' style=' width:20px;height:20px;position: relative; top: 4px'/> **WeChat:** iwzc2k
-<img src='/index/qq.png' align='left' style=' width:20px;height:20px;position: relative; top: 4px'/> **QQ:** 737404596
-
-
-
-
+<img src='/index/email.png' align='left' style=' width:20px;height:20px;position: relative; top: 4px;pointer-events: none'/> **E-Mail:** wzc_wang@126.com
+<img src='/index/wechat.png' align='left' style=' width:20px;height:20px;position: relative; top: 4px;pointer-events: none'/> **WeChat:** iwzc2k
+<img src='/index/qq.png' align='left' style=' width:20px;height:20px;position: relative; top: 4px;pointer-events: none'/> **QQ:** 737404596
 
