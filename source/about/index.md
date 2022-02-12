@@ -24,7 +24,7 @@ keywords: 成功,失败
 - 橋豆麻袋
 - ...
 
-持续完善中(介绍自己好难啊)...
+持续完善中(好像也没什么好介绍的)...
 
 
 
@@ -34,7 +34,11 @@ keywords: 成功,失败
 
 # Contact
 
-{% asset_img email.jpg email %} E-Mail: wzc_wang@126.com
-<img src="wechat.png" style="zoom:25%;" /> WeChat: iwzc2k
-<img src="qq.png" style="zoom:25%;" /> QQ: 737404596
+<img src='/index/email.png' align='left' style=' width:20px;height:20px;position: relative; top: 4px'/> **E-Mail:** wzc_wang@126.com
+<img src='/index/wechat.png' align='left' style=' width:20px;height:20px;position: relative; top: 4px'/> **WeChat:** iwzc2k
+<img src='/index/qq.png' align='left' style=' width:20px;height:20px;position: relative; top: 4px'/> **QQ:** 737404596
+
+
+
+
 
