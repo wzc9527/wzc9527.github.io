@@ -57,7 +57,7 @@ preview:
     type: image # image video
     default_image:
       light: /images/theme/day.jpg
-      dark: /images/theme/welcome-image.jpg
+      dark: /images/theme/night.jpg
     video:
     api: # https://source.unsplash.com/random/1920x1080
     size: cover # css: background-size
@@ -130,8 +130,8 @@ excerpt:
 
 # Post Image
 post_image:
-  random: local # local galleries
-  default: /images/theme/post-image.jpg
+  # random: local # local galleries
+  default: /images/theme/cover/study.jpg
 
 # Page Size
 post_page_size:
@@ -139,7 +139,7 @@ post_page_size:
 
 # Caption
 caption:
-  enable: false
+  enable: true
 
 # Indent
 indent:

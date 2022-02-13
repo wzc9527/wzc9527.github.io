@@ -1,4 +1,4 @@
 ---
-title: 深圳日记
+title: 相册测试02
 layout: "gallery"
 ---
