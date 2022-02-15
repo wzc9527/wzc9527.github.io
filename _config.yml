@@ -107,3 +107,7 @@ deploy:
   type: git
   repo: https://github.com/wzc9527/wzc9527.github.io.git
   branch: master
+
+# aplayer 音乐播放器
+aplayer:
+  meting: true
