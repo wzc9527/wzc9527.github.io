@@ -177,7 +177,7 @@ galleries:
   enable: true
   title: 相册
   subtitle: Galleries
-  type: grid # waterfall | grid
+  type: waterfall # waterfall | grid
   columns: 3
 
 
