@@ -3,7 +3,7 @@ title: Impala所有端口
 date: 2022-03-03 20:37:47
 tags: [Impala]
 categories:
-- 工作
+- 技术
 top: 0
 toc: false
 copyright: true
