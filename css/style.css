@@ -908,7 +908,7 @@ body input {
   visibility: hidden;
 }
 .fab-like-active {
-  bottom: 180px;
+  bottom: 125px;
   visibility: visible;
 }
 .footer {
